@@ -1,8 +1,8 @@
-![1 (2)](https://github.com/user-attachments/assets/bb4de2da-39f6-4803-aca4-3c36cf8168e5)
-![1 (1)](https://github.com/user-attachments/assets/cb62ce79-3f92-44cc-af61-9743b93b6e44)
-![Screenshot (125)](https://github.com/user-attachments/assets/a5f8247e-0528-43ae-bd38-5ae97b8fe967)
-![Screenshot (126)](https://github.com/user-attachments/assets/55af8e20-b0fb-40e9-89da-c7f5e5c2d6fe)
-![Screenshot (127)](https://github.com/user-attachments/assets/7f553f40-312c-4faa-b463-efe707863a35)
+
+![1 (1)](https://github.com/user-attachments/assets/cb62
+![Screenshot (125)](https://github.com/user-attachments/assets/a5f8247e-0528-43ae-bd38-5ae97b8fe9
+![Screenshot (126)](https://github.com/user-attachments/assets/55af8e20-b0fb-40e9-89
+![Screenshot (127)](https://github.com/user-attachments/assets/7f553f40-312c-4faa-b463-efe707863a3
 - 👋 Hi, I’m @Karishmasri07
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
